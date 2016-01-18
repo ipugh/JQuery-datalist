@@ -1,4 +1,4 @@
-# A JQuery Implementation of <datalist>
+# A JQuery Implementation of the HTML datalist tag
 
 ## Usage
 The JQuery implementation of the datalist tag is used by
