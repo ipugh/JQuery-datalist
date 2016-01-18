@@ -2,6 +2,7 @@
 
 ## Usage
 The JQuery implementation of the datalist tag is used by
+
 1. Enclose an input element that has a class of "datalist" with a div that has a class of "container"
 2. In the given directory (var file in the main.js file) the list of the wanted autofill options are placed, separated with newline characters.
 
