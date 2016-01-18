@@ -10,7 +10,7 @@ The JQuery implementation of the datalist tag is used by
 2. Due to the Same-origin policy, this code will not work correct locally. Make sure you are using it on a web server.
 
 ## Why?
-A JQuery Implementation of the html datalist tag was created because currently the datalist tag is not supported in Safari.
+A JQuery Implementation of the html datalist tag was created because currently the datalist tag is not supported in Safari or on mobile devices.
 
 ## To Do
 - Up/Down arrow keys to move
