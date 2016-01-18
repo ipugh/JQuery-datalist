@@ -1,0 +1,21 @@
+.container {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.datalist {
+  width: 100%;
+}
+
+.list {
+  width: inherit;
+  margin-top: 0px;
+  position: absolute;
+  z-index: 1000;
+  background-color: white;
+}
+
+.listitem:hover {
+  border-left: 3px solid lightslategray;
+}
